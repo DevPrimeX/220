@@ -39,7 +39,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://github.com/KDBotz/UrlShortner-AutoFilter-Bot">
+<p align="center"><a href="https://github.com/Lucifer86790/220">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
